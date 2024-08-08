@@ -10,6 +10,7 @@ This project focuses on segmenting roads from aerial images using a Fully Convol
 ### Dataset
 - Dataset from - https://www.kaggle.com/datasets/balraj98/massachusetts-roads-dataset
 - The dataset consists of aerial images and corresponding binary masks indicating road (1) and background (0) pixels. The dataset is divided into training and testing sets, each containing images and their respective masks.
+
 ![Screenshot 2024-08-08 at 10 32 27 AM](https://github.com/user-attachments/assets/6d4b72ad-3a49-4486-8942-5b6d30daf1d5)
 
 ### Model Architecture
