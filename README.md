@@ -1,4 +1,4 @@
-# aerial-road-segmentation
+# Aerial Road Segmentation
 Segmenting roads from aerial images
 
 ## Road Segmentation using Deep Learning
@@ -18,8 +18,7 @@ The model used for this project is the FCN-ResNet50, a Fully Convolutional Netwo
 
 ## Challenges
 1. **Thin and Irregular Road Segments:** Roads often appear as narrow lines in aerial images, making them difficult to capture accurately.
-2. **Class Imbalance:** There is a potential imbalance between the number of road pixels and background pixels.
-3. **Resolution and Scale Variability:** Variability in the resolution and scale of road sections across different images affects the model's performance.
+2. **Resolution and Scale Variability:** Variability in the resolution and scale of road sections across different images affects the model's performance.
 
 
 ## Future Work
