@@ -19,10 +19,11 @@ The model used for this project is the FCN-ResNet50, a Fully Convolutional Netwo
 ## Results 
 After training the FCN-ResNet50 model for **only** 15 epochs on the road segmentation dataset, the model achieved the following performance metrics on the test dataset:
 
-Mean IoU: 0.5127
-Mean Precision: 0.7885
-Mean Recall: 0.5953
-Mean F1 Score: 0.6730
+- Mean IoU: 0.5127
+- Mean Precision: 0.7885
+- Mean Recall: 0.5953
+- Mean F1 Score: 0.6730
+![Screenshot 2024-11-01 at 9 58 47 AM](https://github.com/user-attachments/assets/870ad0e8-3f1c-41e5-a483-24eb30612ba2)
 
 
 ## Challenges
